@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "ECEn 493R: Computer Networking"
-class_name: Computer Networking
-class_number: ECEn 493R
+title: "ECEn 526: Wireless Networking"
+class_name: Wireless Networking
+class_number: ECEn 526
 email: lundrigan@byu.edu
 description: >-
-  Class website for BYU's ECEn 493R: Computer Networking.
-baseurl: "/493r" # the subpath of your site, e.g. /blog
+  Class website for BYU's ECEn 526: Computer Networking.
+baseurl: "/526" # the subpath of your site, e.g. /blog
 url: "https://ecenetworking.byu.edu" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 
@@ -31,16 +31,16 @@ plugins:
 # Turn on the button to allow students to submit PRs to change a page
 suggest_edits:
   enable: true
-  link: https://github.com/NET-BYU/networking-course/blob/master
+  link: https://github.com/byu-cpe/ecen526_website/blob/master
 
 # Set the color theme of the page
 colors:
   text_color: "#111"
   background_color: "#fdfdfd"
-  brand_color: "#ed3d96"
-  secondary_color: "#c3e6ef"
-  text_selection_color: "#ffde16"
-  sidebar_hover_color: "#faa220"
+  brand_color: "#66cce8"
+  secondary_color: "#cb8ebe"
+  text_selection_color: "#cce3a7"
+  sidebar_hover_color: "#ef8eb1"
 
 # Set the fonts
 fonts:
@@ -57,16 +57,20 @@ collections:
   homeworks:
     output: true
     permalink: /:collection/:name/
-    sort_by: chapter
+    order:
+      - networking.md
+      - wireless.md
+      - wifi.md
+      - other.md
   pages:
     output: true
     permalink: /:name/
     order:
       - overview.md
       - resources.md
-      - coding_standard.md
-      - lab_setup.md
-      - ta_hours.md
+      - group_paper_review.md
+      - project.md
+      - summaries.md
       - schedule.md
 
 # Exclude from processing.

@@ -173,7 +173,6 @@ table {
 }
 
 .home-image {
-    // background-image: url("../images/background.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 20% 0%;
@@ -183,14 +182,14 @@ table {
 @include media-query($on-md) {
     .home-image {
         // background-position: 0% -40px;
-        background-image: url("../images/background-medium.svg");
+        // background-image: url("../images/background-medium.svg");
         padding-bottom: 450px;
     }
 }
 
 @include media-query($on-sm) {
     .home-image {
-        background-image: url("../images/background-small.svg");
+        // background-image: url("../images/background-small.svg");
         padding-bottom: 250px;
     }
 }
@@ -199,28 +198,41 @@ table {
     // background-size: contain;
     margin: 0 auto;
     margin-top: 20px;
-    width: 70px;
-    height: 70px;
+    width: 150px;
+    height: 150px;
 }
 
-.cloud-icon {
-    background: url("../images/cloud-icon.svg") no-repeat center center;
+.card {
+    border: 1px solid #603a19;
 }
 
-.socket-icon {
-    background: url("../images/socket-icon.svg") no-repeat center center;
+.card-body {
+    padding: 0.25rem 1.25rem;
 }
 
-.concurrency-icon {
-    background: url("../images/concurrency-icon.svg") no-repeat center center;
+.file-icon {
+    width: 50px;
+    margin: 20px 20px;
 }
 
-.nodes-icon {
-    background: url("../images/nodes-icon.svg") no-repeat center center;
+.protocol-icon {
+    background: url("../images/protocol-icon.svg") no-repeat center center;
 }
 
-.wireless-icon {
-    background: url("../images/wireless-icon.svg") no-repeat center center;
+.reliability-icon {
+    background: url("../images/reliability-icon.svg") no-repeat center center;
+}
+
+.security-icon {
+    background: url("../images/security-icon.svg") no-repeat center center;
+}
+
+.privacy-icon {
+    background: url("../images/privacy-icon.svg") no-repeat center center;
+}
+
+.mac-icon {
+    background: url("../images/mac-icon.svg") no-repeat center center;
 }
 
 .almost-hide {

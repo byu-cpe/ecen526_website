@@ -7,31 +7,17 @@ layout: default
     </h1>
 
     <div class="page-content">
-        <div class="card-deck mb-3 text-center">
-            <div class="card mb-4 shadow-sm">
-                <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">Chapter {{ page.chapter }} Problems</h4>
-                </div>
-                <div class="card-body">
-                    <ul class="list-unstyled mt-3 mb-4">
-                        {% for problem in page.problems %}
-                        <li>{{ problem }}</li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            </div>
-            <div class="card mb-4 shadow-sm">
-                <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">Wireshark Lab</h4>
-                </div>
-                <div class="card-body">
-                    <ul class="list-unstyled mt-3 mb-4">
-                        {% for lab in page.wireshark_labs %}
-                        <li>{{ lab | markdownify }}</li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            </div>
-        </div>
+        <a href="{% link {{ page.pdf }} %}"><img class="file-icon" src="{% link icon/pdf-file-format-symbol.svg %}"
+                title="PDF File Format"></a>
+        <a href="{% link {{ page.tex }} %}"><img class="file-icon" src="{% link icon/tex-file-format-symbol.svg %}"
+                title="Tex File Format"></a>
+        <!-- <a href="{% link {{ page.word }} %}"><img class="file-icon" src="{% link icon/docx-file-format-symbol.svg %}"
+                title="Word File Format"></a> -->
     </div>
+
+    <div class="thanks">
+        <p>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a
+                href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></p>
+    </div>
+
 </article>
