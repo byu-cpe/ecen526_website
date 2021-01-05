@@ -9,23 +9,19 @@ icon: fas fa-chalkboard-teacher
 
 There are seven major components to this course:
 
-- **Summaries**.
+- **Paper Reviews**. You will be writing short reviews for papers that we read throughout the semester. You will summarize the paper and give the paper's strengths and weaknesses.
 
-- **Homeworks**.
+- **Homeworks**. There are four homeworks that help reinforce the concepts you learn during the lecture.
 
-- **Labs**.
+- **Labs**. Labs give you hands-on experience with the concepts you are learning about in class.
 
-- **Exam**. There will be one midterm about half way through the semester.
+- **Exam**. There will be one midterm about halfway through the semester. Sorry.
 
-- **Group Paper Review**.
+- **Group Paper Review**. It is helpful to discuss and review papers with other people. You will be assigned a group to select and review a paper together.
 
-- **Course Project**.
+- **Course Project**. A semester-long project where you can choose the topic.
 
-- **Participation**. 
-  - 4: Engaged in class, taking notes, and asking questions. 
-  - 3: Occasionally asks questions, mostly engaged in class. Sometimes seems more interested in their laptop.
-  - 2: Rarely engages in the class. Looks disinterested in what is being taught. 
-  - 1: Doesn’t show effort to participate in class. Does not show up or is consistently late. 
+- **Participation**. This is a grad class, so I expect good participation. You will be graded on your participation.
 
 ## Grade Breakdown
 
@@ -44,13 +40,18 @@ There are seven major components to this course:
 All communication will be done over Slack. Slack is intended to be used for announcements, questions, and facilitate student communication. If you have a question, ask it on Slack so that everyone can benefit from seeing the question and answer. 
 
 ## Attendance and Participation
-This is a grad, and I expect grad-level participation. I expect all students to be at every lecture and engage in the lecture. Asking and answering questions in class is essential. When you are in a lecture, I expect your attention, so students should not be on their phones or doing non-class related things on their computers.
+This is a grad, and I expect grad-level participation. I expect all students to be at every lecture and engage in the lecture. Asking and answering questions in class is essential. When you are in a lecture, I expect your attention, so students should not be on their phones or doing non-class related things on their computers. Your participation will be graded using the following scale:
+
+ - 4: Engaged in class, taking notes, and asking questions. 
+ - 3: Occasionally asks questions, mostly engaged in class. Sometimes seems more interested in their laptop.
+ - 2: Rarely engages in the class. Looks disinterested in what is being taught. 
+ - 1: Doesn’t show an effort to participate in class. Does not show up or is consistently late. 
 
 ## Late Policy
 Don't turn in late assignments. For an assignment that is one day late, you get 80% credit. For an assignment that is two days late, you get 50% credit. You receive no credit if your assignment is more than two days late. If you are sick, no deductions will be taken if you let me know before the assignment is due.
 
 ## Source Code Sharing
-No source code should be shared between students. Students can work on assignments together, but no direct or indirect copying from another student is allowed. This class will use a code similarity checker to determine if students are copying code.
+Students are not allowed to share source code. Students can work on assignments together, but no direct or indirect copying from another student is allowed. This class will use a code similarity checker to determine if students are copying code.
 
 ## Policies
 
@@ -74,3 +75,4 @@ Brigham Young University is committed to providing a working and learning atmosp
 
 ### Academic Honesty
 The first injunction of the Honor Code is the call to "be honest." Students come to the university not only to improve their minds, gain knowledge, and develop skills that will assist them in their life's work, but also to build character. "President David O. McKay taught that character is the highest aim of education" (The Aims of a BYU Education, p.6). It is the purpose of the BYU Academic Honesty Policy to assist in fulfilling that aim. BYU students should seek to be totally honest in their dealings with others. They should complete their own work and be evaluated based upon that work. They should avoid academic dishonesty and misconduct in all its forms, including but not limited to plagiarism, fabrication or falsification, cheating, and other academic misconduct.
+
