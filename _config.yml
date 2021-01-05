@@ -68,10 +68,10 @@ collections:
     order:
       - overview.md
       - resources.md
-      - group_paper_review.md
-      - project.md
-      - summaries.md
       - schedule.md
+  assignments:
+    output: true
+    permalink: /:collection/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
