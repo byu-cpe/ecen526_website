@@ -16,10 +16,13 @@ I will assign everyone into groups of three people. As a group, you will select 
 - IPSN ([2020](https://ipsn.acm.org/2020/program.html){:target="_blank"}, [2019](https://ipsn.acm.org/2019/program.html){:target="_blank"}, and [2018](https://ipsn.acm.org/2018/program.html){:target="_blank"})
 - WiSec ([2020](https://wisec2020.ins.jku.at/accepted-papers/){:target="_blank"}, [2019](https://wisec19.fiu.edu/full-program){:target="_blank"}, and [2018](https://wisec18.conf.kth.se/sites/program.html){:target="_blank"})
 
-Make sure the paper you select is related to wireless networking. I expect you to meet as a group to review the paper. There will be two parts to this assignment: a written paper review and a group presentation. For everything that gets turned into me, only one person in your group needs to submit it.
+Make sure the paper you select is related to wireless networking. I expect you to meet as a group to review the paper. There will be two major parts to this assignment: a written paper review and a group presentation. There are a few minor milestones along the way to make sure everyone is participating equally. For everything that gets turned into me, only one person in your group needs to submit it.
+
+## Paper Selection
+Every person in the group must suggest **two papers**. As a group, you will discuss the papers and decide which paper you would like to review. You must submit all the papers suggested and your decision on Learning Suite (any format is fine).
 
 ## Group Meetings
-To help facilitate good group discussions and fairness, I require you to meet as a group *at least once* to discuss the paper. To show that you met, record the Zoom meeting and send me the link or file.
+To help facilitate good group discussions and fairness, I require you to meet as a group **at least once** to discuss the paper. However, I encourage you to meet more than that! To show that you met, record the Zoom meeting, and submit the link to Learning Suite.
 
 ## Written Paper Review
 The written report needs to have the following parts:
@@ -29,10 +32,10 @@ The written report needs to have the following parts:
 - Weaknesses of the paper
 - Future Work
 
-You must use [this template]({% link assets/group_review_template.tex %}) as a starting point for your review. The review needs to be two to three pages.
+You must use [this template]({% link assets/group_review_template.tex %}) as a starting point for your review. The review needs to be **two to three pages**.
 
 ## Presentation
-Presentations need to be 15 minutes long, but plan for a few minutes of questions. Each member of the group needs to be part of the presentation. You can choose how to break it up between group members as you see fit, but it would make sense to have one person present on each section.
+Presentations need to be **15 minutes** long, but plan for a few minutes of questions. Each member of the group needs to be part of the presentation. You can choose how to break it up between group members as you see fit, but it would make sense to have one person present on each section.
 
 ## Grading Rubric
 
