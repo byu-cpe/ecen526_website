@@ -2,9 +2,7 @@
 layout: lab
 toc: false
 title: Spectrum Analyzer
-number: 2
-repo: 
+number: 1
 ---
 
-## Overview
-
+Because of COVID, I have to adjust this lab...
