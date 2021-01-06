@@ -7,12 +7,16 @@ layout: default
     </h1>
 
     <div class="page-content">
+        {% if page.pdf %}
         <a href="{% link {{ page.pdf }} %}"><img class="file-icon" src="{% link icon/pdf-file-format-symbol.svg %}"
                 title="PDF File Format"></a>
         <a href="{% link {{ page.tex }} %}"><img class="file-icon" src="{% link icon/tex-file-format-symbol.svg %}"
                 title="Tex File Format"></a>
         <!-- <a href="{% link {{ page.word }} %}"><img class="file-icon" src="{% link icon/docx-file-format-symbol.svg %}"
                 title="Word File Format"></a> -->
+        {% else %}
+        <p>Coming soon!</p>
+        {% endif %}
     </div>
 
     <div class="thanks">
