@@ -32,20 +32,21 @@ There are seven major components to this course:
 | Homeworks          | 5          |
 | Labs               | 20         |
 | Midterm            | 20         |
-| Summaries          | 15         |
 | Participation      | 5          |
+| Summaries          | 15         |
 
 
 ## Communication
 All communication will be done over Slack. Slack is intended to be used for announcements, questions, and facilitate student communication. If you have a question, ask it on Slack so that everyone can benefit from seeing the question and answer. 
 
 ## Attendance and Participation
-This is a grad, and I expect grad-level participation. I expect all students to be at every lecture and engage in the lecture. Asking and answering questions in class is essential. When you are in a lecture, I expect your attention, so students should not be on their phones or doing non-class related things on their computers. Your participation will be graded using the following scale:
+This is a grad, and I expect grad-level participation. I expect all students to be at every lecture and engage in the lecture. Asking and answering questions in class is essential. When you are in a lecture, I expect your attention, so students should not be on their phones or doing non-class related things on their computers. Your participation will be graded using the following scale (out of 4 points):
 
- - 4: Engaged in class, taking notes, and asking questions. 
- - 3: Occasionally asks questions, mostly engaged in class. Sometimes seems more interested in their laptop.
- - 2: Rarely engages in the class. Looks disinterested in what is being taught. 
- - 1: Doesn’t show an effort to participate in class. Does not show up or is consistently late. 
+ - **4 points**. Engaged in class, taking notes, and asking questions. 
+ - **3 points**. Occasionally asks questions, mostly engaged in class. Sometimes seems more interested in their laptop.
+ - **2 points**. Rarely engages in the class. Looks disinterested in what is being taught. 
+ - **1 point**. Doesn’t show an effort to participate in class. Does not show up or is consistently late.
+ - **0 points**. Did you take the class?
 
 ## Late Policy
 Don't turn in late assignments. For an assignment that is one day late, you get 80% credit. For an assignment that is two days late, you get 50% credit. You receive no credit if your assignment is more than two days late. If you are sick, no deductions will be taken if you let me know before the assignment is due.

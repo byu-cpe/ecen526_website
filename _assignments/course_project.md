@@ -5,17 +5,15 @@ title: Course Project
 icon: fas fa-hammer
 ---
 
-The goal of the course project is to get real experience with wireless protocols. You will do this by building, measuring, experimenting with the wireless protocols around you. You are expected to work on this project throughout the semester. The project was designed to work with two people, but if you prefer, you can work by yourself. The project must include some amount of building, measuring or experimenting. For example, you could run an experiment to evaluate a wireless network or look at the performance, security, or usability of a wireless network.
+The goal of the course project is to get real experience with wireless protocols. You will do this by building, measuring, and experimenting with the wireless protocols around you. You are expected to work on this project throughout the semester. The project was designed to work with two people, but you can work by yourself if you prefer. **The project must include some amount of building, measuring, or experimenting**. For example, you could run an experiment to evaluate a wireless network or look at a wireless network's performance, security, or usability.
 
-To give you an idea of the scope of this project here are some ideas:
+To give you an idea of the scope of this project, here are some ideas:
 
 - Analyze the WiFi association protocol. Measure real data of how long it takes to associate with the campus access points. Propose ways the association protocol can be improved.
 
-- Look at security vulnerabilities in Bluetooth and demonstrate an attack.
-
 - Experiment with the range of different wireless protocols, such as LoRa.
 
-- Using iBeacons, do room level localization in your house.
+- Using [iBeacons](https://en.wikipedia.org/wiki/IBeacon), do room level localization in your house.
 
 - Apply machine learning to a wireless networking problem.
 
@@ -27,43 +25,48 @@ To give you an idea of the scope of this project here are some ideas:
 
 - Build an ad hoc network application (e.g., [iOS MultipeerConnectivity framework](https://developer.apple.com/documentation/multipeerconnectivity)).
 
-If you have trouble with coming up with an idea, come talk to me.
+If you have trouble with coming up with an idea, talk to me. I have hardware that you can check out during the semester to work on your project:
 
-**For everything that gets turned into me, only one person in your group needs to submit it.**
+- Two [Pluto SDR](https://www.digikey.com/en/product-highlight/a/analog-devices/adalm-pluto)
+- One [Ubertooth](https://greatscottgadgets.com/ubertoothone/)
+- A bunch of [LoPy4 LoRa modules](https://pycom.io/product/lopy4/) and two [Pygate](https://pycom.io/product/pygate/) 8-channel LoRa gateway
+- A few WiFi modules that can go into [monitor mode](https://en.wikipedia.org/wiki/Monitor_mode)
+
+**For all assignments that get turned into me, only one person in your group needs to submit it.**
 
 ## Proposal
-You will submit a 1 page proposal for your project. This will give an idea of what you plan on doing throughout the semester and expected outcome. The proposal must include the following:
+You will submit a **one page** proposal for your project. This proposal must give an idea of what you plan on doing throughout the semester and the expected outcome. The proposal must include the following:
 
 1. Your name and your partner's name
 2. **Introduction** Motivate and introduce the problem you are solving.
 3. **Related Work** Summarize the existing work related to your problem.
 4. **Methodology** Describe your solution and any other methods you have used to solve your problem.
-5. **Schedule** Give a rough schedule for when you want to accomplish the different parts of your project.
+5. **Schedule** Give a rough schedule for when you want to accomplish your project's different parts.
 
 ## Progress Reports
 You will submit two progress reports. This is to ensure that you are working on the project throughout the semester. The progress report should include a description of what you have done so far and what you still need to do. It only needs to be a few paragraphs long. There is no specific format for the progress reports.
 
 ## Written Report
-Your report must be 3 pages long and you must use [this template]({% link assets/course_project_template.tex %}) for your report. Your report should not include any code; however, you must submit your code or make it available on a web page (e.g., GitHub) and provide the pointer to that page in your report.
+Your report must be **three pages** long, and you must use [this template]({% link assets/course_project_template.tex %}) for your report. Your report should not include any code. You must submit your code or make it available on a web page (e.g., GitHub) and provide the pointer to that page in your report.
 
 The report should have the following sections:
 
 - **Introduction** Motivate and introduce the problem you are solving. Very briefly summarize your methodology, your experiments, and your important results.
 - **Related Work** Summarize the existing work related to your problem.
 - **Methodology** Describe your solution and any other methods you have used to solve your problem.
-- **Implementation** Describe what you designed and how you designed it. Get specific with the hardware / software you used.
+- **Implementation** Describe what you designed and how you designed it. Get specific with the hardware/software you used.
 - **Experimentation** Describe your experiments and your results. Discuss your results.
-- **Conclusion** Summarize your work and your results. Indicated any future directions.
+- **Conclusion** Summarize your work and your results and indicate any future directions.
 - **References** List all the references you have used for this work.
 
 ## Presentation
-At the end of the semester, you will present on your project. The length of the presentation depends on the number of groups. This will be determined later in the semester.
+At the end of the semester, you will present your project. The length of the presentation depends on the number of groups. This will be determined later in the semester.
 
 ## Grading Rubric
 
 **Introduction (5 points)**
 - Problem is clearly explained and motivated.
-- Contributions is clearly stated.
+- Contributions are clearly stated.
 
 **Related Work (5 points)**
 - Mention other work that has been done in the past.
@@ -99,7 +102,7 @@ At the end of the semester, you will present on your project. The length of the 
 - Everyone participated in the presentation equally
 
 **Project Artifact (5 points)**
-- Report points to code written for project
+- Report points to code written for the project
 - The code is well written
 
 **Project Scope (10 points)**

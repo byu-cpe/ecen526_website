@@ -5,7 +5,7 @@ title: Group Paper Review
 icon: fas fa-user-friends
 ---
 
-The goal of this assignment is to gain experience in reviewing a paper and presenting your review. It is beneficial to discuss papers as a group to get a better understanding and hear other's perspective.
+The goal of this assignment is to gain experience in reviewing a paper and presenting your review. It is beneficial to discuss papers as a group to understand better and hear others' perspectives.
 
 I will assign everyone into groups of three people. As a group, you will select and review a paper. The paper needs to come from a recent peer-reviewed conference relating to wireless networking. The paper needs to be approved by me. As a starting point, you can look at papers from one of the following conferences:
 
@@ -19,7 +19,7 @@ I will assign everyone into groups of three people. As a group, you will select 
 Make sure the paper you select is related to wireless networking. I expect you to meet as a group to review the paper. There will be two parts to this assignment: a written paper review and a group presentation. For everything that gets turned into me, only one person in your group needs to submit it.
 
 ## Group Meetings
-To help facilitate good group discussions and fairness, I am requiring you to meet as a group *at least once* to discuss the paper. To show that you met, record the Zoom meeting and send me the link or file.
+To help facilitate good group discussions and fairness, I require you to meet as a group *at least once* to discuss the paper. To show that you met, record the Zoom meeting and send me the link or file.
 
 ## Written Paper Review
 The written report needs to have the following parts:
