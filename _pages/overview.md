@@ -40,7 +40,7 @@ There are seven major components to this course:
 All communication will be done over Slack. Slack is intended to be used for announcements, questions, and facilitate student communication. If you have a question, ask it on Slack so that everyone can benefit from seeing the question and answer. 
 
 ## Attendance and Participation
-This is a grad, and I expect grad-level participation. I expect all students to be at every lecture and engage in the lecture. Asking and answering questions in class is essential. When you are in a lecture, I expect your attention, so students should not be on their phones or doing non-class related things on their computers. Your participation will be graded using the following scale (out of 4 points):
+This is a grad class, and I expect grad-level participation. I expect all students to be at every lecture and engage in the lecture. Asking and answering questions in class is essential. When you are in a lecture, I expect your attention, so students should not be on their phones or doing non-class related things on their computers. Your participation will be graded using the following scale (out of 4 points):
 
  - **4 points**. Engaged in class, taking notes, and asking questions. 
  - **3 points**. Occasionally asks questions, mostly engaged in class. Sometimes seems more interested in their laptop.
