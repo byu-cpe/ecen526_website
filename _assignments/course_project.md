@@ -25,7 +25,7 @@ To give you an idea of the scope of this project, here are some ideas:
 
 - Build an ad hoc network application (e.g., [iOS MultipeerConnectivity framework](https://developer.apple.com/documentation/multipeerconnectivity)).
 
-- Do something with the [Connected Home over IP Project](https://www.connectedhomeip.com)
+- Do something with the [Connected Home over IP Project](https://www.connectedhomeip.com).
 
 If you have trouble with coming up with an idea, talk to me. I have hardware that you can check out during the semester to work on your project:
 
