@@ -13,7 +13,7 @@ To give you an idea of the scope of this project, here are some ideas:
 
 - Experiment with the range of different wireless protocols, such as LoRa.
 
-- Using [iBeacons](https://en.wikipedia.org/wiki/IBeacon), do room level localization in your house.
+- Using [iBeacons](https://en.wikipedia.org/wiki/IBeacon){:target="_blank"}, do room level localization in your house.
 
 - Apply machine learning to a wireless networking problem.
 
@@ -23,16 +23,16 @@ To give you an idea of the scope of this project, here are some ideas:
 
 - Explore wireless communication within your field of research.
 
-- Build an ad hoc network application (e.g., [iOS MultipeerConnectivity framework](https://developer.apple.com/documentation/multipeerconnectivity)).
+- Build an ad hoc network application (e.g., [iOS MultipeerConnectivity framework](https://developer.apple.com/documentation/multipeerconnectivity){:target="_blank"}).
 
-- Do something with the [Connected Home over IP Project](https://www.connectedhomeip.com).
+- Do something with the [Connected Home over IP Project](https://www.connectedhomeip.com){:target="_blank"}.
 
 If you have trouble with coming up with an idea, talk to me. I have hardware that you can check out during the semester to work on your project:
 
-- Two [Pluto SDR](https://www.digikey.com/en/product-highlight/a/analog-devices/adalm-pluto)
-- One [Ubertooth](https://greatscottgadgets.com/ubertoothone/)
-- A bunch of [LoPy4 LoRa modules](https://pycom.io/product/lopy4/) and two [Pygate](https://pycom.io/product/pygate/) 8-channel LoRa gateway
-- A few WiFi modules that can go into [monitor mode](https://en.wikipedia.org/wiki/Monitor_mode)
+- Two [Pluto SDR](https://www.digikey.com/en/product-highlight/a/analog-devices/adalm-pluto){:target="_blank"}
+- One [Ubertooth](https://greatscottgadgets.com/ubertoothone/){:target="_blank"}
+- A bunch of [LoPy4 LoRa modules](https://pycom.io/product/lopy4/){:target="_blank"} and two [Pygate](https://pycom.io/product/pygate/){:target="_blank"} 8-channel LoRa gateway
+- A few WiFi modules that can go into [monitor mode](https://en.wikipedia.org/wiki/Monitor_mode){:target="_blank"}
 
 **For all assignments that get turned into me, only one person in your group needs to submit it.**
 
