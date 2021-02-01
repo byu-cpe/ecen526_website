@@ -2,7 +2,6 @@
 layout: homework
 title: Networking
 icon: networking.svg
-pdf: 
-tex: 
-word: 
+pdf: assets/homeworks/Networking Questions.pdf
+tex: assets/homeworks/Networking Questions.tex
 ---
