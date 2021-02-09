@@ -5,4 +5,4 @@ title: Spectrum Analyzer
 number: 1
 ---
 
-Because of COVID, I have to adjust this lab...
+<a href="{% link assets/lab1.pdf %}"><img class="file-icon" src="{% link icon/pdf-file-format-symbol.svg %}" title="PDF File Format"></a>
