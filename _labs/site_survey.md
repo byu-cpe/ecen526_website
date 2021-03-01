@@ -33,14 +33,15 @@ Your experiments must be thoughtful and well planned out. Think about the implic
 
 ## Requirements
 
-For this lab, you will turn in a **2-page report**. Your report must contain the following three sections:
+For this lab, you will turn in a **2-page report** using [this template]({% link assets/lab_2_template.tex %}). Your report must contain the following three sections:
 
 1. Current state of WiFi in your home. Give us an idea of what you are working with. For example, how many access points do you have? What kind of configuration you have (shared between roommates, manage by your apartment complex, etc.)? Do you have any WiFi issues?
 
-2. A detailed analysis of your home's WiFi. This section is the meat of your report. Once again, I leave this up to you to figure out based on your home and WiFi issues you might be having. However, it should contain the following information:
+2. A detailed analysis of your home's WiFi. This section is the meat of your report. Once again, I leave this up to you to figure out based on your home and WiFi issues you might be having. It should contain the following information:
     - The experiments you performed
     - Rationale for why you performed those experiments
     - The results of your experiments
+    - Pretty graphs and charts
 
 3. Suggested improvements you can make to your network and why you think those changes would help. For example, would buying more access points help? Would changing the position of your APs help? Some of these things might be out of your control, but I want you to think about what changes you would make and why they would help.
 
