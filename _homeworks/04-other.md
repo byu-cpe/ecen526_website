@@ -2,7 +2,6 @@
 layout: homework
 title: Other Wireless Protocols
 icon: antenna.svg
-pdf:
-tex:
-word:
+pdf: assets/homeworks/Other Protocol Questions.pdf
+tex: assets/homeworks/Other Protocol Questions.tex
 ---
