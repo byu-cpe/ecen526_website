@@ -2,7 +2,7 @@
 layout: lab
 toc: false
 title: Site Survey
-number: 2
+number: 3
 ---
 
 ## Overview
@@ -11,9 +11,9 @@ Understanding a wireless network's performance in any environment can be quite c
 
 Since each home is different, I don't want to limit your exploration, so I do not require specific measurements. However, I will reward thoroughness. Here are some things you might consider measuring:
 
-- Run an Internet speed test at various locations in your house (for example using [speedtest-cli](https://github.com/sivel/speedtest-cli)).
+- Run an Internet speed test at various locations in your house (for example using [speedtest-cli](https://github.com/sivel/speedtest-cli){:target="_blank"}).
 
-- Run [iperf3](https://iperf.fr) on your local network. You can do this by setting up a server (e.g., Raspberry Pi, desktop, laptop, etc.) and then, with a laptop, measure different spots in your house.
+- Run [iperf3](https://iperf.fr){:target="_blank"} on your local network. You can do this by setting up a server (e.g., Raspberry Pi, desktop, laptop, etc.) and then, with a laptop, measure different spots in your house.
 
 - Compare the results of iperf3 with the Internet speed test to see if they are different.
 

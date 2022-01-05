@@ -5,7 +5,7 @@ title: Group Paper Review
 icon: fas fa-user-friends
 ---
 
-The goal of this assignment is to gain experience in reviewing a paper and presenting your review. It is beneficial to discuss papers as a group to understand better and hear others' perspectives.
+The goal of this assignment is to gain experience deeply understanding a paper so that you can teach others about it. It is beneficial to discuss papers as a group to understand better and hear others' perspectives.
 
 I will assign everyone into groups of three people. As a group, you will select and review a paper. The paper needs to come from a recent peer-reviewed conference relating to wireless networking. The paper needs to be approved by me. As a starting point, you can look at papers from one of the following conferences:
 
@@ -16,23 +16,13 @@ I will assign everyone into groups of three people. As a group, you will select 
 - IPSN ([2020](https://ipsn.acm.org/2020/program.html){:target="_blank"}, [2019](https://ipsn.acm.org/2019/program.html){:target="_blank"}, and [2018](https://ipsn.acm.org/2018/program.html){:target="_blank"})
 - WiSec ([2020](https://wisec2020.ins.jku.at/accepted-papers/){:target="_blank"}, [2019](https://wisec19.fiu.edu/full-program){:target="_blank"}, and [2018](https://wisec18.conf.kth.se/sites/program.html){:target="_blank"})
 
-Make sure the paper you select is related to wireless networking. I expect you to meet as a group to review the paper. There will be two major parts to this assignment: a written paper review and a group presentation. There are a few minor milestones along the way to make sure everyone is participating equally. For everything that gets turned into me, only one person in your group needs to submit it.
+Make sure the paper you select is related to wireless networking. I expect you to meet as a group to review the paper. There are a few minor milestones along the way to make sure everyone is participating equally.
 
 ## Paper Selection
 Every person in the group must suggest **two papers**. As a group, you will discuss the papers and decide which paper you would like to review. You must submit all the papers suggested and your decision on Learning Suite (any format is fine).
 
 ## Group Meetings
-To help facilitate good group discussions and fairness, I require you to meet as a group **at least once** to discuss the paper. However, I encourage you to meet more than that! To show that you met, record the Zoom meeting, and submit the link to Learning Suite.
-
-## Written Paper Review
-The written report needs to have the following parts:
-
-- Summary of the paper
-- Strengths of the paper
-- Weaknesses of the paper
-- Future Work
-
-You must use [this template]({% link assets/group_review_template.tex %}) as a starting point for your review. The review needs to be **two to three pages**.
+To help facilitate good group discussions and fairness, I require you to meet as a group **at least once** to discuss the paper. However, I encourage you to meet more than that!
 
 ## Presentation
 Presentations need to be **15 minutes** long, but plan for a few minutes of questions. Each member of the group needs to be part of the presentation. You can choose how to break it up between group members as you see fit, but it would make sense to have one person present on each section.
@@ -42,19 +32,16 @@ Presentations need to be **15 minutes** long, but plan for a few minutes of ques
 **Introduction (5 pt)**
 - Clearly introduce and motivate the problem
 
-**Summary (5 pt)**
+**Summary (15 pt)**
 - Describes the problem well enough for someone to understand
 - Describes the proposed solution from the paper
 - Presents results from the paper
 
-**Strengths (5 pt)**
+**Strengths (2 pt)**
 - Thoughtful strengths identified and discussed
 
-**Weaknesses (5 pt)**
+**Weaknesses (2 pt)**
 - Thoughtful weaknesses identified and discussed
 
-**Future Work (5 pt)**
-- Some non-obvious and thoughtful future work is explained
-
-**Conclusion**
- 
+**Future Work (2 pt)**
+- Some non-obvious and thoughtful future work is explained 

@@ -9,7 +9,7 @@ icon: fas fa-chalkboard-teacher
 
 There are seven major components to this course:
 
-- **Paper Reviews**. You will be writing short reviews for papers that we read throughout the semester. You will summarize the paper and give the paper's strengths and weaknesses.
+- **Paper Reviews**. You will be writing short reviews for papers that we read throughout the semester.
 
 - **Homeworks**. There are four homeworks that help reinforce the concepts you learn during the lecture.
 

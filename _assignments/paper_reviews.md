@@ -13,4 +13,4 @@ As a grad student, it is important to read, understand, and review research pape
 
 3. Weaknesses of the paper.
 
-All paper reviews must use the following [template]({% link assets/paper_review.tex %}). The review should be about **one full page** (i.e., two columns). Submit the review as a PDF before class starts.
+All paper reviews must use the following [template]({% link assets/paper_review.txt %}){:target="_blank"}. The review should be thorough and thoughtful. Submit the review before class starts.
