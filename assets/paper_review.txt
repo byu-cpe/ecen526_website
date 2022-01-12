@@ -16,4 +16,4 @@
 
 ### 6. Was the paper, in your estimation, successful in addressing the problem?
 
-### 7. Two important, open research questions on the topic, and why they matter.
+### 7. List two important, open research questions on the topic, and why they matter.

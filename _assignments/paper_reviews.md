@@ -5,12 +5,20 @@ title: Paper Reviews
 icon: far fa-copy
 ---
 
-As a grad student, it is important to read, understand, and review research papers. To get practice at this, we will be reviewing a few papers throughout the semester. Reviews should contain the following sections:
+As a grad student, it is important to read, understand, and review research papers. To get practice at this, we will be reviewing a few papers throughout the semester. Reviews should answer the following sections/questions:
 
-1. A summary of the paper. Make sure to touch on the paper's claimed contributions, the general methodology for achieving those claims, and evaluation of the methodology.
+1. Paper summary
 
-2. Strengths of the paper.
+2. What problem does the paper address?
 
-3. Weaknesses of the paper.
+3. How is it different from previous work, if any?
+
+4. What is the approach used to solve the problem?
+
+5. How does the paper support or otherwise justify its arguments and conclusions?
+
+6. Was the paper, in your estimation, successful in addressing the problem?
+
+7. List two important, open research questions on the topic, and why they matter.
 
 All paper reviews must use the following [template]({% link assets/paper_review.txt %}){:target="_blank"}. The review should be thorough and thoughtful. Submit the review before class starts.
