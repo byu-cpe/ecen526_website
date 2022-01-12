@@ -33,7 +33,7 @@ Your experiments must be thoughtful and well planned out. Think about the implic
 
 ## Requirements
 
-For this lab, you will turn in a **2-page report** using [this template]({% link assets/lab_2_template.tex %}). Your report must contain the following three sections:
+For this lab, you will turn in a **2-page report** using [this template]({% link assets/lab_2_template.tex %}){:target="_blank"}. Your report must contain the following three sections:
 
 1. Current state of WiFi in your home. Give us an idea of what you are working with. For example, how many access points do you have? What kind of configuration you have (shared between roommates, manage by your apartment complex, etc.)? Do you have any WiFi issues?
 

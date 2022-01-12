@@ -55,7 +55,7 @@ You will submit a **one page** proposal for your project. This proposal must giv
 You will submit two progress reports. This is to ensure that you are working on the project throughout the semester. The progress report should include a description of what you have done so far and what you still need to do. It only needs to be a few paragraphs long. There is no specific format for the progress reports.
 
 ## Written Report
-Your report must be **three pages** long, and you must use [this template]({% link assets/course_project_template.tex %}) for your report. Your report should not include any code. You must submit your code or make it available on a web page (e.g., GitHub) and provide the pointer to that page in your report.
+Your report must be **three pages** long, and you must use [this template]({% link assets/course_project_template.tex %}){:target="_blank"} for your report. Your report should not include any code. You must submit your code or make it available on a web page (e.g., GitHub) and provide the pointer to that page in your report.
 
 The report should have the following sections:
 
