@@ -13,11 +13,13 @@ To give you an idea of the scope of this project, here are some ideas:
 
 - Experiment with the range of different wireless protocols, such as LoRa.
 
+- Investigate [ESP-Now](https://www.espressif.com/en/products/software/esp-now/overview){:target="_blank"}, an alternative to WiFi that runs on the ESP8266 and the ESP32.
+
 - Using [iBeacons](https://en.wikipedia.org/wiki/IBeacon){:target="_blank"}, do room level localization in your house.
 
 - Apply machine learning to a wireless networking problem.
 
-- Study at MAC address randomization and find and implement ways of defeating it.
+<!-- - Study at MAC address randomization and find and implement ways of defeating it. -->
 
 - Find improvements to state-of-the-art research and implement improvements.
 
@@ -25,7 +27,11 @@ To give you an idea of the scope of this project, here are some ideas:
 
 - Build an ad hoc network application (e.g., [iOS MultipeerConnectivity framework](https://developer.apple.com/documentation/multipeerconnectivity){:target="_blank"}).
 
-- Do something with the [Connected Home over IP Project](https://www.connectedhomeip.com){:target="_blank"}.
+- Do something with the [Matter](https://buildwithmatter.com){:target="_blank"}.
+
+- Design your own wireless protocol from scratch using a SDR.
+
+- Build a tool that determines the wireless network characteristics (e.g., congestions, interference levels, etc.).
 
 If you have trouble with coming up with an idea, talk to me. I have hardware that you can check out during the semester to work on your project:
 
