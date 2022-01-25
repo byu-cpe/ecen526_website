@@ -19,6 +19,6 @@ As a grad student, it is important to read, understand, and review research pape
 
 6. Was the paper, in your estimation, successful in addressing the problem?
 
-7. List two important, open research questions on the topic, and why they matter.
+7. List two important research questions on the topic, and why they matter.
 
 All paper reviews must use the following [template]({% link assets/paper_review.txt %}){:target="_blank"}. The review should be thorough and thoughtful. Submit the review before class starts.
