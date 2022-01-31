@@ -100,4 +100,4 @@ The spectrum analyzer is done processing the data when it displays **"Stopped"**
 
 5.  **Using the Spectrogram window, what channel are the beacon frames being sent on?** You will have to find the marker that you placed in the time domain.
 
-After you are done answering the questions, close out of all of the windows, but leave SignalVu open. Write your name at the top of this assignment and turn it in through Learning Suite.
+After you are done answering the questions, close out of all of the windows, but leave SignalVu open. Turn the assignment in through Learning Suite.
