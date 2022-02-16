@@ -322,15 +322,15 @@ Signature: \rule{2.5in}{1pt}
 }
 
 % Document information
-\title{Wireless Transmission Questions}
-\author{ECEn 526 \\ Wireless Networking}
-\date{February 9, 2022}
+\title{Networking Questions}
+\author{ \\ }
+\date{January 31, 2022}
 
 
 % Header and footer
-\lhead{Wireless Transmission Questions}
+\lhead{Networking Questions}
 \chead[]{}
-\rhead{ECEn 526: Wireless Networking}
+\rhead{: }
 \runningheadrule
 
 \lfoot[]{}
@@ -373,15 +373,38 @@ Signature: \rule{2.5in}{1pt}
 \begin{questions}
 
 
-\question 
+\question[3] How does HTTP detect the end of a request? How does IPv4 detect the end of a packet? Why are they different?
+
+\begin{solution}[\stretch{1}]
+[Put answer here]
+\end{solution}
+
+
+\newpage
+
+
+\question[3] Find the end-to-end delay (including the transmission delays and propagation delays on each of the three links, but ignoring queueing delays and processing delays) from when the left host begins transmitting the first bit of a packet to the time when the last bit of that packet is received at the server at the right. The speed of light propagation delay on each link is $3 \times 10^8$ m/s. Note that the transmission rates are in Mbps and the link distances are in Km. Assume a packet length of 4000 bits. Give your answer in milliseconds.
+\begin{center}
+\includegraphics[width=0.8\textwidth]{/Users/philipbl/Documents/BYU/Classes/ECEn 526 - Winter 2022/homeworks/networking_questions/assets/end-to-end_delay.jpg}
+\end{center}
 
 \begin{parts}
-      \part[2] Using the frequencies of channel 1 of WiFi and SNR\textsubscript{dB} = 24 dB, use Shannon's formula to calculate the capacity. Note: Shannon's formula does not use SNR in dBs -- you will have to convert it.
+      \part Link 1 Delay
 
     \begin{solution}[\stretch{1}]
         [Put answer here]
         \end{solution}
-    \part[1] That is the theoretical limit, but it is unlikely to be achieved. For the sake of this problem, assume we can achieve the limit. Using Nyquist's formula, how many signaling levels are required to achieve this rate?
+    \part Link 2 Delay
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Link 3 Delay
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Total Delay
 
     \begin{solution}[\stretch{1}]
         [Put answer here]
@@ -391,68 +414,233 @@ Signature: \rule{2.5in}{1pt}
 
 
 
-\question[1] What would be the path loss for an urban area cellular radio where n = 3.1? Use 1.9 GHz at a distance of 1.5 km and assume isotropic antennas.
-
-\begin{solution}[\stretch{1}]
-[Put answer here]
-\end{solution}
-
-
 \newpage
 
 
-\question[1] Explain why the \textit{signal strength} of two wireless devices will change even if the devices are not moving.
-
-\begin{solution}[\stretch{1}]
-[Put answer here]
-\end{solution}
-
-
-\question[1] Using the figure below, which modulation scheme has the best performance? Explain how you determined that.
+\question[2] Suppose that the packet length is L = 5 KB, and that the link transmission rate along the link to router on the right is R = 1 Mbps. Assume that 1 KB = 1000 bytes.
 \begin{center}
-\includegraphics[width=0.5\textwidth]{/Users/philipbl/Documents/BYU/Classes/ECEn 526 - Winter 2022/homeworks/wireless_transmission_questions/assets/modulations.png}
+\includegraphics[width=0.5\textwidth]{/Users/philipbl/Documents/BYU/Classes/ECEn 526 - Winter 2022/homeworks/networking_questions/assets/single_link_transmission_time.jpg}
 \end{center}
 
-\begin{solution}[\stretch{1}]
-[Put answer here]
-\end{solution}
+\begin{parts}
+      \part What is the transmission delay (the time needed to transmit all of a packet's bits into the link)?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part What is the maximum number of packets per second that can be transmitted by the link?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+\end{parts}
+
+
 
 
 \newpage
 
 
-\question[2] Explain the relationship between modulation, data rate, and bit error? Explain a situation where you would prefer a lower date rate over a higher data rate.
-
-\begin{solution}[\stretch{1}]
-[Put answer here]
-\end{solution}
-
-
-\question[3] What improvement does OFDM make compared to other frequency division multiplexing (FDM) approaches? List two benefits that OFDM provides.
-
-\begin{solution}[\stretch{1}]
-[Put answer here]
-\end{solution}
-
-
-\question[2] Describe the general idea behind spread spectrum techniques. What are the benefits?
-
-\begin{solution}[\stretch{1}]
-[Put answer here]
-\end{solution}
-
-
-\newpage
-
-
-\question[1] Below is a spectrogram (waterfall plot) of a wireless transmission taken on campus. What type of spread spectrum technique is this transmission using? How can you tell?
+\question[3] Consider the scenario shown above, with four different servers connected to four different clients over four three-hop paths. The four pairs share a common middle hop with a transmission capacity of $R$ = 300 Mbps. The four links from the servers to the shared link have a transmission capacity of $R_S$ = 50 Mbps. Each of the four links from the shared middle link to a client has a transmission capacity of $R_C$ = 30 Mbps per second.
 \begin{center}
-\includegraphics[width=0.5\textwidth]{/Users/philipbl/Documents/BYU/Classes/ECEn 526 - Winter 2022/homeworks/wireless_transmission_questions/assets/spectrogram.pdf}
+\includegraphics[width=0.5\textwidth]{/Users/philipbl/Documents/BYU/Classes/ECEn 526 - Winter 2022/homeworks/networking_questions/assets/end-to-end_throughput.jpg}
 \end{center}
 
+\begin{parts}
+      \part What is the maximum achievable end-to-end throughput (in Mbps) for each of four client-to-server pairs, assuming that the middle link is fair-shared (i.e., divides its transmission rate equally among the four pairs)?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Which link is the bottleneck link for each session?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Assuming that the senders are sending at the maximum rate possible, what are the link utilizations for the sender links ($R_S$), client links ($R_C$), and the middle link ($R$)?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+\end{parts}
+
+
+
+
+\newpage
+
+
+\question[5] Using the following HTTP GET message, answer the following questions:
+
+\begin{verbatim}
+GET /526/hw1/answers.txt HTTP/1.1
+Host: ecenetworking.byu.edu
+User Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko/20100101 Firefox/11.0
+\end{verbatim}
+
+
+\begin{parts}
+      \part What is the name of the file that is being retrieved in this GET message?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part What version of HTTP is the client running?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Assuming this request came from a web browser, what was the full URL that was typed into the address bar?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part What browser and operating system did this request come from?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Assuming that the file does not exist, write out the HTTP response? You do not need to include any extra headers.
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+\end{parts}
+
+
+
+
+\newpage
+
+
+\question[2] What does fairness mean in the context of TCP? What feature of TCP makes it fair? How?
+
 \begin{solution}[\stretch{1}]
 [Put answer here]
 \end{solution}
+
+
+\question[1] How does TCP detect duplicate data?
+
+\begin{solution}[\stretch{1}]
+[Put answer here]
+\end{solution}
+
+
+\newpage
+
+
+\question[3] Consider UDP and TCP.
+
+\begin{parts}
+      \part List the guarantees UDP provides (hint: there is at least one).
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part List the guarantees of TCP (hint: there is at least four).
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Why would someone use UDP over TCP?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+\end{parts}
+
+
+
+
+\newpage
+
+
+\question[10] HTTP is a text-based protocol, meaning that data is sent in plain text, rather than binary-encoded data. Design a binary-encoded version of an HTTP request. Look at the TCP and IP packet structures for inspiration. List each field, the size of each field (in bytes or bits), and a brief description of the field. The description should include a justification for the size of the field and any limitations that were introduced. For example, an HTTP request must include a version:
+
+  \begin{table}[H]
+  \centering
+  \begin{tabular}{|l|l|p{10cm}|}
+  \hline
+  \textbf{Field Name} & \textbf{Field Size} & \textbf{Field Description} \\ \hline \hline
+  Version             & 4 bits              & The HTTP version. 4 bits can represent 16 values. This can represent current versions and most likely all future versions of HTTP. Version 1.0 corresponds to the binary value 0, 1.1 corresponds to the binary value 1, and 2.0 corresponds to the binary value 2. \\ \hline
+    ...               & ...                 & ...      \\ \hline
+  \end{tabular}
+  \end{table}
+
+Your protocol should be able to accommodate variable size file names, variable header values, and variable payloads.
+
+
+\begin{solution}[\stretch{2}]
+[Put answer here]
+\end{solution}
+
+
+\newpage
+
+
+\question[5] Consider the scenario below in which three hosts, with private IP addresses 10.0.0.13, 10.0.0.2, 10.0.0.20 are in a local network behind a NATed router that sits between these three hosts and the larger Internet. IP datagrams being sent from, or destined to, these three hosts must pass through this NAT router. The router’s interface on the LAN side has IP address 10.0.0.1, while the router’s address on the Internet side has IP address 143.100.122.56. Suppose that the host with IP address 10.0.0.20 sends an IP datagram destined to host 128.119.161.189. The source port is 3451, and the destination port is 80.
+\begin{center}
+\includegraphics[width=0.8\textwidth]{/Users/philipbl/Documents/BYU/Classes/ECEn 526 - Winter 2022/homeworks/networking_questions/assets/nat.png}
+\end{center}
+
+\begin{parts}
+      \part Consider the datagram at step 1, after it has been sent by the host but before it has reached the NATted router. What are the source and destination IP addresses for this datagram? What are the source and destination port numbers for the TCP segment in this IP datagram?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Now consider the datagram at step 2, after it has been transmitted by the NATted router. What are the source and destination IP addresses for this datagram? What are the source and destination port numbers for the TCP segment in this IP datagram? Specify the entry that has been made in the router's NAT table.
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Now consider the datagram at step 3, just before it is received by the NATted router. What are the source and destination IP addresses for this datagram? What are the source and destination port numbers for the TCP segment in this IP datagram?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Last, consider the datagram at step 4, after it has been transmitted by the NATted router but before it has been received by the host. What are the source and destination IP address for this datagram? What are the source and destination port numbers for the TCP segment in this IP datagram?
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+\end{parts}
+
+
+
+
+\newpage
+
+
+\question[2] What are the congestion window (\texttt{cwnd}) and and receive window (\texttt{rwnd}) used for in TCP?
+
+\begin{solution}[\stretch{1}]
+[Put answer here]
+\end{solution}
+
+
+\question[3] What are the pros and cons of the following multiple access protocols?
+
+\begin{parts}
+      \part Channel Partitioning
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Random Access
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+    \part Taking Turns
+
+    \begin{solution}[\stretch{1}]
+        [Put answer here]
+        \end{solution}
+\end{parts}
+
+
 
 
 
