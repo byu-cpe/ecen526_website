@@ -12,3 +12,5 @@ For the course, we will be using material from different online resources. Links
 - [Wireless Communications Networks and Systems, by Beard and Stallings](https://www.amazon.com/Wireless-Communication-Networks-Systems-Beard/dp/0133594173){:target="_blank"}.
 
 - [Wireless Communications, 2nd Edition, by Molisch](https://www.amazon.com/Wireless-Communications-Andreas-F-Molisch/dp/0470741864){:target="_blank"}.
+
+For those looking to compile their own PDFs with the provided `tex` files on the homeworks, make sure to include the [exam.cls](http://tug.ctan.org/tex-archive/macros/latex/contrib/exam/exam.cls) file in your project folder.
