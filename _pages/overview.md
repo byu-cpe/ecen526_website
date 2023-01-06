@@ -35,10 +35,6 @@ There are seven major components to this course:
 | Participation      | 5          |
 | Summaries          | 15         |
 
-
-## Communication
-All communication will be done over Slack. Slack is intended to be used for announcements, questions, and facilitate student communication. If you have a question, ask it on Slack so that everyone can benefit from seeing the question and answer. 
-
 ## Attendance and Participation
 This is a grad class, and I expect grad-level participation. I expect all students to be at every lecture and engage in the lecture. Asking and answering questions in class is essential. When you are in a lecture, I expect your attention, so students should not be on their phones or doing non-class related things on their computers. Your participation will be graded using the following scale (out of 4 points):
 
