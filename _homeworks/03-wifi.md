@@ -1,7 +1,7 @@
 ---
 layout: homework
 title: WiFi
-icon: wifi.svg
+icon: fa-duotone fa-wifi-fair
 pdf: assets/homeworks/WiFi Questions.pdf
 tex: assets/homeworks/WiFi Questions.tex
 ---

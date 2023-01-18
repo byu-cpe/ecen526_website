@@ -2,7 +2,7 @@
 layout: page
 toc: false
 title: Working Group Summary
-icon: fas fa-wifi
+icon: fa-duotone fa-wifi
 ---
 
 The IEEE updates the 802.11 standard using task groups (or working groups). These groups of people explore ways of improving specific aspects of the standard. For example, task group (TG) "r" explored the idea of speeding up the security transition between two different access points. The innovations of TGr were rolled into the standard as an amendment in 2008 ([IEEE 802.11r](https://en.wikipedia.org/wiki/IEEE_802.11r-2008){:target="_blank"}). The IEEE publishes all of the notes and presentations that were given during these task group meetings on [their website](https://mentor.ieee.org/802.11/documents){:target="_blank"}.

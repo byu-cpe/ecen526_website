@@ -2,7 +2,7 @@
 layout: page
 toc: true
 title: Course Project
-icon: fas fa-hammer
+icon: fa-duotone fa-hammer
 ---
 
 The goal of the course project is to get real experience with wireless protocols. You will do this by building, measuring, and experimenting with the wireless protocols around you. You are expected to work on this project throughout the semester. The project was designed to work with two people, but you can work by yourself if you prefer. **The project must include some amount of building, measuring, or experimenting**. For example, you could run an experiment to evaluate a wireless network or look at a wireless network's performance, security, or usability.

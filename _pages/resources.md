@@ -2,7 +2,7 @@
 layout: page
 toc: false
 title: Resources
-icon: fas fa-book
+icon: fa-duotone fa-book
 ---
 
 For the course, we will be using material from different online resources. Links to the material are posted on the schedule. If you are interested in a book, the following are a useful reference for the material we will be covering in this class (though they are not required):

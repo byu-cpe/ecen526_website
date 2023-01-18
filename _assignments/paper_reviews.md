@@ -2,7 +2,7 @@
 layout: page
 toc: false
 title: Paper Reviews
-icon: far fa-copy
+icon: fa-duotone fa-copy
 ---
 
 As a grad student, it is important to read, understand, and review research papers. To get practice at this, we will be reviewing a few papers throughout the semester. Reviews should answer the following sections/questions:
