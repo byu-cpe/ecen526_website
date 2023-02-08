@@ -51,7 +51,7 @@ Run the microwave next to the spectrum analyzer for a few seconds.
 
 Now that you have seen wireless signals in real time, we are going to look at some previously collected captures.
 
-Open up file `Desktop/lab1/1.tiq` (File > Recall..) and select the "Data and setup" option. This will change the setup of your windows. The windows that you should now have up are "Time Overview", "Spectrum", and "Spectrogram." Close the "DPX Spectrum" window. The "Time Overview" gives you the signal in the time domain, the "Spectrum" window gives you the signal in the frequency domain, and the "Spectrogram" window (or waterfall graph) gives you the signal in both the time domain and the frequency domain. The y-axis is time, and the x-axis is the frequency, with the color of the graph representing the signal strength. All windows have settings that can be changed along their status bar. This allows you to zoom in/out to look at a signal more closely or change the position of the graph.
+Open up file `Desktop/lab2/1.tiq` (File > Recall..) and select the "Data and setup" option. This will change the setup of your windows. The windows that you should now have up are "Time Overview", "Spectrum", and "Spectrogram." Close the "DPX Spectrum" window. The "Time Overview" gives you the signal in the time domain, the "Spectrum" window gives you the signal in the frequency domain, and the "Spectrogram" window (or waterfall graph) gives you the signal in both the time domain and the frequency domain. The y-axis is time, and the x-axis is the frequency, with the color of the graph representing the signal strength. All windows have settings that can be changed along their status bar. This allows you to zoom in/out to look at a signal more closely or change the position of the graph.
 
 Since this is previously captured data, we are able to replay it as many times as we want. First, ensure that the "Replay" toolbar is showing by selecting from the menu View > Replay Toolbar. It should look like:
 
@@ -83,7 +83,7 @@ Using the Replay toolbar, move to a frame that shows a WiFi signal. This is done
 
 As explained above, the spectrum analyzer only samples the spectrum for a small amount of time. To avoid the problem of missing transmissions or capturing only part of a transmission, the spectrum analyzer is able to sample for extended periods (about a few seconds—it depends on the number of samples per second and the capacity of the spectrum analyzer). This allows you to see every wireless transmission that is sent over a period of time. The downside to this approach is that the file is much larger and can take longer to analyze and display.
 
-Open up the file `Desktop/assignment/2.tiq`. Notice how long it takes to load the file. You can determine the progress on the status bar at the bottom of the window:
+Open up the file `Desktop/lab2/2.tiq`. Notice how long it takes to load the file. You can determine the progress on the status bar at the bottom of the window:
 
 ![]({% link assets/spectrum_analyzer_resources/loading.png %})
 
