@@ -13,7 +13,7 @@ number: 3
 
 In this lab you will hack into two wireless networks, one protected by WEP and another protected by WPA2. The lab will teach you how trivial it is to crack WEP and WPA2 with a weak password.
 
-I have set up two wireless networks, "ECEn526-WEP" and "ECEn526-WPA2". Each of these networks has a computer attach to it. Your job is to gain access to the network, SSH into the computer, and retrieve the secret off of the computer. There is two secrets in total, one for each network. You will then upload the secrets to Learning Suite. Since the point of the lab is to learn about WiFi security, I will give you the username and password of the computer attached to the network.
+I have set up two wireless networks, "ECEn526-WEP" and "ECEn526-WPA2". Each of these networks has a computer attach to it. Your job is to gain access to the network, SSH into the computer, and retrieve the secret off of the computer. There is two secrets in total, one for each network. You will then upload the secrets to Learning Suite. Since the point of the lab is to learn about WiFi security and not hacking, I will give you the username and password of the computer attached to the network.
 
 Here are the steps of the lab:
 
