@@ -19,11 +19,17 @@ Here are the steps of the lab:
 
 1. Gain access to the network. You are on your own for this one. There are plenty of tutorials online for how to do this for WEP and WPA. Good luck!
    
-2. SSH into the computer attached to the network. Here is the information for the computer attached to the network (it is the same for both networks):
-   - IP Address: 192.168.0.2
-   - Username: student
-   - Password: student
+2. SSH into the computer attached to the network. Here is the information for the computer attached to the network:
+    - Network Name: ECEn526-WEP
+      - IP Address:
+      - Username:
+      - Password:
 
+    - Network Name: ECEn526-WPA2
+      - IP Address: 192.168.1.4
+      - Username: student
+      - Password: student
+      
 3. Find the file "secret.txt" in the home directory and view its contents. 
    
 4. Repeat steps 1-3 for the second wireless network. Upload the two secrets to Learning Suite.
