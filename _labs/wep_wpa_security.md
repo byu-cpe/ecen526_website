@@ -21,9 +21,9 @@ Here are the steps of the lab:
    
 2. SSH into the computer attached to the network. Here is the information for the computer attached to the network:
     - Network Name: ECEn526-WEP
-      - IP Address:
-      - Username:
-      - Password:
+      - IP Address: 192.168.0.5
+      - Username: student
+      - Password: student
 
     - Network Name: ECEn526-WPA2
       - IP Address: 192.168.1.4
