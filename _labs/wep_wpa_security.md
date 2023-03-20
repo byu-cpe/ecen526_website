@@ -26,7 +26,7 @@ Here are the steps of the lab:
       - Password: student
 
     - Network Name: ECEn526-WPA2
-      - IP Address: 192.168.1.4
+      - IP Address: 192.168.0.2
       - Username: student
       - Password: student
       
