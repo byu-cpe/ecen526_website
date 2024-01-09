@@ -39,6 +39,7 @@ If you have trouble with coming up with an idea, talk to me. I have hardware tha
 - One [Ubertooth](https://greatscottgadgets.com/ubertoothone/){:target="_blank"}
 - A bunch of [LoPy4 LoRa modules](https://pycom.io/product/lopy4/){:target="_blank"} and two [Pygate](https://pycom.io/product/pygate/){:target="_blank"} 8-channel LoRa gateway
 - A few WiFi modules that can go into [monitor mode](https://en.wikipedia.org/wiki/Monitor_mode){:target="_blank"}
+- A Flipper Zero
 
 **For all assignments that get turned into me, only one person in your group needs to submit it.**
 

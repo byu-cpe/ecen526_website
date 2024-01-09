@@ -17,7 +17,7 @@ There are seven major components to this course:
 
 - **Exam**. There will be one midterm about halfway through the semester. Sorry.
 
-- **Group Paper Review**. It is helpful to discuss and review papers with other people. You will be assigned a group to select and review a paper together.
+- **Paper Review Presentation**. You will be giving a presentation on a paper that you have reviewed.
 
 - **Course Project**. A semester-long project where you can choose the topic.
 
@@ -25,15 +25,15 @@ There are seven major components to this course:
 
 ## Grade Breakdown
 
-| Component          | % of Grade |
-| ------------------ | ---------- |
-| Course Project     | 25         |
-| Group Paper Review | 10         |
-| Homeworks          | 5          |
-| Labs               | 20         |
-| Midterm            | 20         |
-| Participation      | 5          |
-| Summaries          | 15         |
+| Component                 | % of Grade |
+| ------------------------- | ---------- |
+| Course Project            | 25         |
+| Paper Review Presentation | 10         |
+| Homeworks                 | 5          |
+| Labs                      | 20         |
+| Midterm                   | 20         |
+| Participation             | 5          |
+| Summaries                 | 15         |
 
 ## Attendance and Participation
 This is a grad class, and I expect grad-level participation. I expect all students to be at every lecture and engage in the lecture. Asking and answering questions in class is essential. When you are in a lecture, I expect your attention, so students should not be on their phones or doing non-class related things on their computers. Your participation will be graded using the following scale (out of 4 points):
