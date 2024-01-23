@@ -27,7 +27,7 @@ To give you an idea of the scope of this project, here are some ideas:
 
 - Build an ad hoc network application (e.g., [iOS MultipeerConnectivity framework](https://developer.apple.com/documentation/multipeerconnectivity){:target="_blank"}).
 
-- Do something with the [Matter](https://buildwithmatter.com){:target="_blank"}.
+- Do something with [Matter](https://buildwithmatter.com){:target="_blank"}.
 
 - Design your own wireless protocol from scratch using a SDR.
 
