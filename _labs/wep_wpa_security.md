@@ -50,3 +50,4 @@ Here are the steps of the lab:
 
 - This lab should only take around 45 minutes to complete. If the lab takes longer than that, there is a chance you are doing something wrong. If you are stuck, ask for help.
 
+- The WEP key is hex. Aircrack will return the key in the following format: XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX. To join the network, you will want to remove all of the colons: XXXXXXXXXXXXXXXXXXXXXXXXXX.
