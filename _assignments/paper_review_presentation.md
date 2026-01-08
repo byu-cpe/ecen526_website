@@ -13,7 +13,7 @@ The goal of this assignment is to gain experience *deeply* understanding a paper
 - WiSec ([2025](https://wisec2025.gmu.edu/program-detailed-program/), [2024](https://dl.acm.org/doi/proceedings/10.1145/3734477), [2023](https://wisec2023.surrey.ac.uk/accepted-papers/), [2022](https://wisec2022.cs.utsa.edu/accepted-papers/), [2021](https://sites.nyuad.nyu.edu/wisec21/accepted-papers/), and [2020](https://wisec2020.ins.jku.at/accepted-papers/))
 
 
-Make sure the paper you select is related to wireless networking.
+Make sure the paper you select is related to wireless networking. **This assignment will be done with a partner. You and your partner will select one paper to review together.**
 
 ## Presentation
 Presentations need to be **12 minutes** long, but plan for two minutes of questions. The presentation should not only teach us about the paper but also give us details on what you liked about the paper and what you didn't like about the paper. Remember, this is a *review*, not a paper summary. We want *insights* and not just information.
