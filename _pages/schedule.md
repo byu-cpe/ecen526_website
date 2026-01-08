@@ -1,6 +1,6 @@
 ---
 title: Schedule
-link: https://learningsuite.byu.edu/.PhQS/cid-VcGA71cIHS5t/calendar
+link: https://learningsuite.byu.edu/.hgKd/cid-Hi8BagbI5vdw/calendar
 new_window: true
 icon: fa-duotone fa-calendar
 ---
