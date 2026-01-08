@@ -9,23 +9,11 @@ The goal of the course project is to get real experience with wireless protocols
 
 To give you an idea of the scope of this project, here are some ideas:
 
-- Analyze the WiFi association protocol. Measure real data of how long it takes to associate with the campus access points. Propose ways the association protocol can be improved.
-
-- Experiment with the range of different wireless protocols, such as LoRa.
-
-- Investigate [ESP-Now](https://www.espressif.com/en/products/software/esp-now/overview){:target="_blank"}, an alternative to WiFi that runs on the ESP8266 and the ESP32.
-
-- Using [iBeacons](https://en.wikipedia.org/wiki/IBeacon){:target="_blank"}, do room level localization in your house.
-
 - Apply machine learning to a wireless networking problem.
-
-<!-- - Study at MAC address randomization and find and implement ways of defeating it. -->
 
 - Find improvements to state-of-the-art research and implement improvements.
 
 - Explore wireless communication within your field of research.
-
-- Build an ad hoc network application (e.g., [iOS MultipeerConnectivity framework](https://developer.apple.com/documentation/multipeerconnectivity){:target="_blank"}).
 
 - Do something with [Matter](https://buildwithmatter.com){:target="_blank"}.
 
@@ -36,8 +24,7 @@ To give you an idea of the scope of this project, here are some ideas:
 If you have trouble with coming up with an idea, talk to me. I have hardware that you can check out during the semester to work on your project:
 
 - Two [Pluto SDR](https://www.digikey.com/en/product-highlight/a/analog-devices/adalm-pluto){:target="_blank"}
-- One [Ubertooth](https://greatscottgadgets.com/ubertoothone/){:target="_blank"}
-- A bunch of [LoPy4 LoRa modules](https://pycom.io/product/lopy4/){:target="_blank"} and two [Pygate](https://pycom.io/product/pygate/){:target="_blank"} 8-channel LoRa gateway
+- A bunch of LoRa modules
 - A few WiFi modules that can go into [monitor mode](https://en.wikipedia.org/wiki/Monitor_mode){:target="_blank"}
 - A Flipper Zero
 
