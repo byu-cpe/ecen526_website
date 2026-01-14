@@ -27,7 +27,7 @@ Second, get familiar with `iperf3` by running it a few times. Figure out how to 
 
 ## Experiments
 
-For all experiments, set the `iperf3` run time to 2 minutes, and the interval between throughput reports to 1 second. The `iperf3` servers is running at `lundrigan.byu.edu`, `ecen224.byu.edu`, and `aq.byu.edu`. For all experiments, you should consider piping the results to a file so that you can refer to them later.
+For all experiments, set the `iperf3` run time to 2 minutes, and the interval between throughput reports to 1 second. The `iperf3` servers are running at `lundrigan.byu.edu`, `ecen224.byu.edu`, and `aq.byu.edu`. For all experiments, you should consider piping the results to a file so that you can refer to them later.
 
 1. Run `iperf3` using **TCP** on your laptop **wired** into the campus network.
 
@@ -39,7 +39,7 @@ For all experiments, set the `iperf3` run time to 2 minutes, and the interval be
 
 5. Run `iperf3` using **TCP** while walking around a building. When walking around, try to go between different access points (e.g., don't just walk around in a small circle in one room).
 
-6. Run `iperf3` using **UDP** while walking around a building. Use the same path you took for experiment the previous experiment and make sure to set the throughput to unlimited.
+6. Run `iperf3` using **UDP** while walking around a building. Use the same path you took for the previous experiment and make sure to set the throughput to unlimited.
 
 ## Report
 
