@@ -27,7 +27,7 @@ Second, get familiar with `iperf3` by running it a few times. Figure out how to 
 
 ## Experiments
 
-For all experiments, set the `iperf3` run time to 2 minutes, and the interval between throughput reports to 1 second. The `iperf3` servers are running at `ecen426.byu.edu`, `ecen224.byu.edu`, and `aq.byu.edu`. For all experiments, you should consider piping the results to a file so that you can refer to them later.
+For all experiments, set the `iperf3` run time to 2 minutes, and the interval between throughput reports to 1 second. The `iperf3` servers are running at `ecen426.byu.edu`, `ecen224.byu.edu`, and `aq.byu.edu`. Only one client can connect to an `iperf3` server at a time, which is why I provide three. If you have access to a wired desktop computer and you want to run your own server, that is fine. Please use the same server for all of your experiments to maintain consistent results. For all experiments, consider piping the results to a file so you can refer to them later.
 
 1. Run `iperf3` using **TCP** on your laptop **wired** into the campus network.
 
