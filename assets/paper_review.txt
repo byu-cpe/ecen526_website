@@ -4,16 +4,13 @@
 ### Reviewer: [PUT NAME HERE]
 ### Title: [PUT TITLE HERE]
 
-### 1. Paper summary
+### 1. Paper Summary (4-6 sentences)
 
-### 2. What problem does the paper address?
+### 2. What problem is addressed and is the solution viable, why? (3-4 sentences)
 
-### 3. How is it different from previous work, if any?
+### 3. How is this different from previous work? (2-3 sentences)
 
-### 4. What is the approach used to solve the problem?
+### 4. What important research questions would further this work (2+ sentences)
 
-### 5. How does the paper support or otherwise justify its arguments and conclusions?
+### 5. Is this a good paper? What are its strengths, what are its weaknesses? Would you recommend this paper to a conference? Assess technical contribution, novelty, writing quality, relevance. (4-6 sentences)
 
-### 6. Was the paper, in your estimation, successful in addressing the problem?
-
-### 7. List two important research questions on the topic and why they matter.
