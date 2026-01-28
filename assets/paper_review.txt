@@ -10,7 +10,7 @@
 
 ### 3. How is this different from previous work? (2-3 sentences)
 
-### 4. What important research questions would further this work (2+ questions)
+### 4. What important research questions would further this work (2+ sentences)
 
 ### 5. Is this a good paper? What are its strengths, what are its weaknesses? Would you recommend this paper to a conference? Assess technical contribution, novelty, writing quality, relevance. (4-6 sentences)
 
