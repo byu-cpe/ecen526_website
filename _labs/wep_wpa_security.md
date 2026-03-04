@@ -11,17 +11,17 @@ number: 3
 
 ## Overview
 
-In this lab you will hack into two wireless networks, one protected by WEP and another protected by WPA2. The lab will teach you how trivial it is to crack WEP and WPA2 with a weak password.
+In this lab, you will hack into two wireless networks, one protected by WEP and another protected by WPA2. The lab will teach you how trivial it is to crack WEP and WPA2 with a weak password.
 
-I have set up two wireless networks, "ECEn526-WEP" and "ECEn526-WPA2" in the Embedded Lab (EB 438). Each of these networks has a computer attach to it. Your job is to gain access to the network, SSH into the computer, and retrieve the secret off of the computer. There is two secrets in total, one for each network. You will then upload the secrets to Learning Suite. Since the point of the lab is to learn about WiFi security and not hacking, I will give you the username and password of the computer attached to the network.
+I have set up two wireless networks, "ECEn526-WEP" and "ECEn526-WPA2", in the Embedded Lab (EB 438). Each of these networks has a computer attached to it. Your job is to gain access to the network, SSH into the computer, and retrieve the secret from the computer. There are two secrets in total, one for each network. You will then upload the secrets to Learning Suite. Since the point of the lab is to learn about WiFi security, not hacking, I will give you the username and password for the computers connected to the network.
 
 Here are the steps of the lab:
 
-1. Gain access to the network. You are on your own for this one. There are plenty of tutorials online for how to do this for WEP and WPA (and resources at the bottom of this page). Good luck! To make the lab a more consistent experience for everyone, I am providing a Raspberry Pi as an SSH endpoint for you to log into from *on campus*. It has a WiFi adapter that is capable of going into monitor mode and injecting frames and the aircrack-ng software suite. This device has two wireless adapters. For this lab, you will only be using the `wlan1` interface.
+1. Gain access to the network. You are on your own for this one. There are plenty of tutorials online for how to do this for WEP and WPA (and resources at the bottom of this page). Good luck! To make the lab a more consistent experience for everyone, I am providing a Raspberry Pi as an SSH endpoint for you to log into from *on campus*. It has a WiFi adapter that is capable of going into monitor mode and injecting frames, and the aircrack-ng software suite. This device has two wireless adapters. For this lab, you will only be using the `wlan1` interface.
     - IP Address: 10.35.120.211
     - Username: student
 
-     To make sure two people are not using the computer at the same time, I have created a document to schedule the device. The link to the document will be shared over LS. When you log into the device, create a folder with your NetID and change into that directory so the files you create will be self contained.
+     You are welcome to use your own device, but it needs to be capable of capturing and injecting WiFi frames, which depends on your computer's WiFi adapter firmware. If you use the Raspberry Pi, to make sure two people are not using it at the same time, I have created a document to schedule the device. The link to the document will be shared over LS. When you log into the device, create a folder with your NetID and change into that directory so the files you create will be self-contained.
    
 2. SSH into the computer attached to the network. Here is the information for the computer attached to the network:
     - Network Name: ECEn526-WEP
@@ -44,10 +44,8 @@ Here are the steps of the lab:
 
 ## Resources
 
-- Aircrack-ng has a good tutorials on how to crack WEP and WPA2. You can download them [here]({% link assets/lab3_resources.zip %}).
-
-- To perform some of the attacks, you need to be able to capture packets and inject frames. The ability to capture and inject depends on your computers WiFi adapter firmware. If your wireless chipset does not support these capabilities, you can borrow a USB WiFi adapter from me.
+- Aircrack-ng has good tutorials on how to crack WEP and WPA2. You can download them [here]({% link assets/lab3_resources.zip %}).
 
 - This lab should only take around 45 minutes to complete. If the lab takes longer than that, there is a chance you are doing something wrong. If you are stuck, ask for help.
 
-- WEP keys are hex. Aircrack will return the key in the following format: XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX. To join the WEP network, you will want to remove all of the colons: XXXXXXXXXXXXXXXXXXXXXXXXXX.
+- WEP keys are hex. Aircrack will return the key in the following format: XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX. To join the WEP network, you will need to remove all colons: XXXXXXXXXXXXXXXXXXXXXXXXXX.
