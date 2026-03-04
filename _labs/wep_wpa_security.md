@@ -17,11 +17,7 @@ I have set up two wireless networks, "ECEn526-WEP" and "ECEn526-WPA2", in the Em
 
 Here are the steps of the lab:
 
-1. Gain access to the network. You are on your own for this one. There are plenty of tutorials online for how to do this for WEP and WPA (and resources at the bottom of this page). Good luck! To make the lab a more consistent experience for everyone, I am providing a Raspberry Pi as an SSH endpoint for you to log into from *on campus*. It has a WiFi adapter that is capable of going into monitor mode and injecting frames, and the aircrack-ng software suite. This device has two wireless adapters. For this lab, you will only be using the `wlan1` interface.
-    - IP Address: 10.35.120.211
-    - Username: student
-
-     You are welcome to use your own device, but it needs to be capable of capturing and injecting WiFi frames, which depends on your computer's WiFi adapter firmware. If you use the Raspberry Pi, to make sure two people are not using it at the same time, I have created a document to schedule the device. The link to the document will be shared over LS. When you log into the device, create a folder with your NetID and change into that directory so the files you create will be self-contained.
+1. Gain access to the network. You are on your own for this one. There are plenty of tutorials online for how to do this for WEP and WPA (and resources at the bottom of this page). Good luck! You are welcome to use your own device, but it needs to be capable of capturing and injecting WiFi frames, which depends on your computer's WiFi adapter firmware. To make the lab a more consistent experience for everyone, I am providing a Raspberry Pi as an SSH endpoint for you to log into from *on campus*. It has a WiFi adapter that is capable of going into monitor mode and injecting frames, and the aircrack-ng software suite. This device has two wireless adapters. For this lab, you will only be using the `wlan1` interface. The IP address and log in information is on the Lab 3 Details Content Page on Learning Suite. If you use the Raspberry Pi, to make sure two people are not using it at the same time, I have created a document to schedule the device. The link to the document will be shared over LS. When you log into the device, create a folder with your NetID and change into that directory so the files you create will be self-contained.
    
 2. SSH into the computer attached to the network. Here is the information for the computer attached to the network:
     - Network Name: ECEn526-WEP
