@@ -28,5 +28,3 @@ You are welcome to use your own device for this lab, but it needs to be capable 
 - Aircrack-ng has good tutorials on how to crack WEP and WPA2. You can download them [here]({% link assets/lab3_resources.zip %}).
 
 - This lab should only take around 1 hour to complete. If the lab takes longer than that, there is a chance you are doing something wrong. If you are stuck, ask for help.
-
-- WEP keys are hex. Aircrack will return the key in the following format: XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX. To join the WEP network, you will need to remove all colons: XXXXXXXXXXXXXXXXXXXXXXXXXX.
