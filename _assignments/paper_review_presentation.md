@@ -16,7 +16,7 @@ The goal of this assignment is to gain experience *deeply* understanding a paper
 Make sure the paper you select is related to wireless networking. **This assignment will be done with a partner. You and your partner will select one paper to review together.**
 
 ## Presentation
-Presentations need to be **12 minutes** long, but plan for two minutes of questions. The presentation should not only teach us about the paper but also give us details on what you liked about the paper and what you didn't like about the paper. Remember, this is a *review*, not a paper summary. We want *insights* and not just information.
+Presentations need to be 10 minutes long, with 2 minutes for questions, for a total of **12 minutes**. The presentation should not only teach us about the paper but also provide details on what you liked and didn't like about it. Remember, this is a *review*, not a paper summary. We want *insights* and not just information.
 
 Here is a rough outline of how the presentation should flow:
 

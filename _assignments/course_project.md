@@ -56,7 +56,7 @@ The report should have the following sections:
 - **References** List all the references you have used for this work.
 
 ## Presentation
-At the end of the semester, you will present your project. The length of the presentation depends on the number of groups. This will be determined later in the semester.
+At the end of the semester, you will present your project. Presentation should be 10 minutes, with 1 minute for questions.
 
 ## Grading Rubric
 
