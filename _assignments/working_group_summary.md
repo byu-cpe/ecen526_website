@@ -9,7 +9,7 @@ The IEEE updates the 802.11 standard using task groups (or working groups). Thes
 
 For this assignment, you will dig through these documents and explore what a task group is working on. Pick a task group (preferably an active one) and read the documents that have been uploaded. The website has an option to filter by the task group. Usually, the earlier Powerpoint presentations are more informative. Some of the documents are not very helpful, so you will need to do some digging. Summarize what the task group is all about. If it helps, here are some questions you can answer in your summary:
 
-- What use cases (or usage models) are the task group trying to accommodate?
+- What use cases (or usage models) is the task group trying to accommodate?
 - What is the task group doing to the standard to improve it?
 - What problems is the task group dealing with?
 - What did you learn as you were searching through the documents?

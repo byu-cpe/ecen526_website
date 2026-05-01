@@ -37,4 +37,4 @@ Here is a rough outline of how the presentation should flow:
   - Did the paper have any flaws?
   - What could have been improved?
 
-**Questions (~2 minute)**
+**Questions (~2 minutes)**

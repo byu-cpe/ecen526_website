@@ -19,7 +19,7 @@ To give you an idea of the scope of this project, here are some ideas:
 
 - Design your own wireless protocol from scratch using a SDR.
 
-- Build a tool that determines the wireless network characteristics (e.g., congestions, interference levels, etc.).
+- Build a tool that determines the wireless network characteristics (e.g., congestion, interference levels, etc.).
 
 If you have trouble with coming up with an idea, talk to me. I have hardware that you can check out during the semester to work on your project:
 
@@ -28,7 +28,7 @@ If you have trouble with coming up with an idea, talk to me. I have hardware tha
 - A few WiFi modules that can go into [monitor mode](https://en.wikipedia.org/wiki/Monitor_mode){:target="_blank"}
 - A Flipper Zero
 
-**For all assignments that get turned into me, only one person in your group needs to submit it.**
+**For all assignments that get turned in to me, only one person in your group needs to submit it.**
 
 ## Proposal
 You will submit a **one page** proposal for your project. This proposal must give an idea of what you plan on doing throughout the semester and the expected outcome. The proposal must include the following:

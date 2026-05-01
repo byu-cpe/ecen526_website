@@ -7,7 +7,7 @@ number: 4
 
 ## Overview
 
-Understanding a wireless network's performance in any environment can be quite challenging, especially in a home. This lab aims to give you better insights into your home's WiFi and how to characterize a wireless network's performance by doing a site survey. I want you to make this assignment personal. We all have issues with our WiFi network that we would like to improve. Figure out what is wrong and then figure out how to improve it
+Understanding a wireless network's performance in any environment can be quite challenging, especially in a home. This lab aims to give you better insights into your home's WiFi and how to characterize a wireless network's performance by doing a site survey. I want you to make this assignment personal. We all have issues with our WiFi network that we would like to improve. Figure out what is wrong and then figure out how to improve it.
 
 Since each home is different, I don't want to limit your exploration, so I do not require specific measurements or how you perform those measurements. However, I will reward thoroughness. There are three parts to this lab.
 

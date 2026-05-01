@@ -15,7 +15,7 @@ AI may support student learning, but it may not replace the student’s own work
 Students may use AI tools for the following purposes:
 - Brainstorming ideas and structuring outlines.
 - Generating alternative explanations or perspectives.
-- Provide grammar and spelling improvements.
+- Providing grammar and spelling improvements.
 
 ### Prohibited Uses of AI
 Students may not:

@@ -64,7 +64,7 @@ Markers are an important way to measure different characteristics of a signal, s
 
 
 ### Wireless Frames
-Using the Replay toolbar, move to a frame that shows a WiFi signal. This is done by stepping through individual frames until you see a transmission. For example, capture 4 contains a WiFi frame. Find a different capture that contains a WiFi frame and answer the following questions, using that frame and makers. Since the signal is the same in all the samples, it doesn't matter which transmission you select.
+Using the Replay toolbar, move to a frame that shows a WiFi signal. This is done by stepping through individual frames until you see a transmission. For example, capture 4 contains a WiFi frame. Find a different capture that contains a WiFi frame and answer the following questions, using that frame and markers. Since the signal is the same in all the samples, it doesn't matter which transmission you select.
 
 {:start="5"}
 5. **What is the frame number that you are using? This is shown in the Relay Toolbar next to the timestamp of the sample.**
@@ -87,7 +87,7 @@ Open up the file `Desktop/lab2/2.tiq`. Notice how long it takes to load the file
 
 ![]({% link assets/spectrum_analyzer_resources/loading.png %})
 
-The spectrum analyzer is done processing the data when it displays **"Stopped"** on the status bar. This capture contains 802.11 beacon frame transmissions, along with some other transmissions. You can determine which transmissions are the 802.11 beacon frame because beacon frames are sent out at fixed intervals. To determine which transmissions are beacon frames, use the Time Overview window. To zoom into a signal, right click on the window and select "Zoom" or "Pan". Place markers to find the time difference between transmissions and other information about the beacon. Which ever frames have a fixed interval between them are the beacon frames. Answer the following questions.
+The spectrum analyzer is done processing the data when it displays **"Stopped"** on the status bar. This capture contains 802.11 beacon frame transmissions, along with some other transmissions. You can determine which transmissions are the 802.11 beacon frame because beacon frames are sent out at fixed intervals. To determine which transmissions are beacon frames, use the Time Overview window. To zoom into a signal, right click on the window and select "Zoom" or "Pan". Place markers to find the time difference between transmissions and other information about the beacon. Whichever frames have a fixed interval between them are the beacon frames. Answer the following questions.
 
 {:start="11"}
 1.  **What is the beacon frame interval?** Hint: It is not the default beacon frame rate.
